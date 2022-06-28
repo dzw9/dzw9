@@ -1,7 +1,7 @@
 ### Nice to meet you! 👋
-## Chinese name: Zhiwen Ding
-## Japanese name: Jingchaun wenyu
-## English name: biu
+#### Chinese name: Zhiwen Ding
+#### Japanese name: Jingchaun wenyu
+#### English name: biu
 
 
 <!--
