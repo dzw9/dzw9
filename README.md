@@ -1,16 +1,17 @@
 ## Nice to meet you! 👋👋👋
 ##### 😍: Zhiwen Ding | Jingchaun wenyu | biu
-###### 🏠: Hangzhou,Zhejiang.
-###### 🤺: 15697881481/19550233442 🐧/❤️‍🔥：445722658 
+###### 🏠：Fuzhou,Jiangxi.  🏫: Hangzhou,Zhejiang.
+###### 
+###### 🤺: 15697881481/19550233442   🐧/❤️‍🔥：445722658 
+###### 
 
-<!--
-**dzw9/dzw9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Graphe
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...😊🤺
+- 💬
+- 📫 
+- 😄 
+- ⚡ 
