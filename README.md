@@ -1,9 +1,10 @@
 ## Nice to meet you! 👋👋👋
-##### 😍: Zhiwen Ding | Jingchaun wenyu | biu
-###### 🏠：Fuzhou,Jiangxi.  🏫: Hangzhou,Zhejiang.
+- ##### 😍: Zhiwen Ding | Jingchaun wenyu | biu
+- ###### 🏠：Fuzhou,Jiangxi.  🏫: Hangzhou,Zhejiang.
 ###### 
-###### 🤺: 15697881481/19550233442   🐧/❤️‍🔥：445722658 
+- ###### 🤺: 15697881481/19550233442   🐧/❤️‍🔥：445722658 
 ###### 
+
 
 
 
