@@ -2,7 +2,7 @@
 #### Chinese name: Zhiwen Ding
 #### Japanese name: Jingchaun wenyu
 #### English name: biu
-###### 🤺: 15697881481/19550233442
+###### 🤺: 15697881481/19550233442 🐧：445722658 同wechat
 
 <!--
 **dzw9/dzw9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
