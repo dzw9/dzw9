@@ -8,10 +8,10 @@
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Graphe
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on Hangzhou Dianzi University
+- 🌱 I’m currently learning Graphene
+- 👯 I’m looking for freedom
+- 🤔 I’m looking for help about IC
 - 💬
 - 📫 
 - 😄 
